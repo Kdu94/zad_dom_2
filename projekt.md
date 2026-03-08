@@ -37,3 +37,9 @@
 - Wdrożenie strony na serwer.
 - Konfiguracja certyfikatu SSL.
 - Ostateczna kontrola jakości.
+
+
+## Funkcje
+- dodawanie zadań
+- oznaczanie zadań jako wykonane
+- usuwanie zadań
